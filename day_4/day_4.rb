@@ -1,4 +1,7 @@
 
+def average(array)
 
+
+end
 
 
