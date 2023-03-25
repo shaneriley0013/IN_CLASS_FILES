@@ -55,7 +55,7 @@ employees = []
   }
 end
 # pp employees
-puts  employees[9][:salary]
+puts  employees[3][:first_name]
 
 #employees.each { |employee| pp employees[0][:salary] } #don't really need the |employee| here
                                                         # for this one
